@@ -1,0 +1,3 @@
+.pytest_cache/
+sim_build/
+tests/sim_build/
